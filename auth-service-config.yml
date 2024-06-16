@@ -1,0 +1,4 @@
+auth:
+  registration:
+    validation:
+      min-password-length: 8
